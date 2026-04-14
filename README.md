@@ -1,2 +1,2 @@
 # dojowhitebelt
-Gitbub Dojo Wihitebelt
+Gitbub Dojo Whitebelt
